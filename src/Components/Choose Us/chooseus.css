@@ -1,0 +1,31 @@
+.choose-wrapper{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	margin: 50px;
+}
+
+.heading-wrapper{
+	text-align: center;
+	display: flex;
+	align-items:flex-start;
+	justify-content: center;
+}
+
+.heading-wrapper h1 {
+    color: #fff;
+	font-family: Inter;
+	font-size: 54px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 143.023%;
+	width: 437px;
+	height: 77px;
+}
+
+.cards-wrapper {
+    display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	margin: 50px;
+}
