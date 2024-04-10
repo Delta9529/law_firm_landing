@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    width: 1132px;
+    height: 172px;
+}
+
+.heading{
+    width: 387px;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 87.22px;
+    color: white;
+}
+
+.text-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 475px;
+    color: white;
+}
+
+.text-content h2{
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 52.01px;
+}
+
+.text-content p{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29.25px;
+    color: white;
+    opacity: 0.3;
+}
+
+.vertical-line{
+    border: 1px solid;
+    height: 206px;
+}
